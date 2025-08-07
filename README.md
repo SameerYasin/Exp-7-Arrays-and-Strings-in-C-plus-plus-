@@ -68,6 +68,8 @@ Below are the tasks performed with their **purpose** and **algorithm**:
 2. Loop to take input for all 5 elements.
 3. Loop to display each element.
 
+<img width="460" height="188" alt="image" src="https://github.com/user-attachments/assets/43fdb812-d651-457d-a03e-df07f321812d" />
+
 
 ### **2. Array Element Search**
 
@@ -81,6 +83,8 @@ Below are the tasks performed with their **purpose** and **algorithm**:
 
    * If element equals key, print its index and stop.
 4. If not found, inform the user.
+
+<img width="487" height="202" alt="image" src="https://github.com/user-attachments/assets/51c0d547-1a47-4cf6-9171-cea21d5ca030" />
 
 
 ### **3. Find Maximum and Minimum in Array**
@@ -97,6 +101,8 @@ Below are the tasks performed with their **purpose** and **algorithm**:
    * If `arr[i] < min`, update `min`
 4. Print `min` and `max`
 
+<img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/f4d9984c-92a7-48aa-9353-f267d0adc7cc" />
+
 
 ### **4. Reverse Array Elements**
 
@@ -108,6 +114,7 @@ Below are the tasks performed with their **purpose** and **algorithm**:
 2. Loop from `size - 1` to `0`.
 3. Print each element during reverse loop.
 
+<img width="462" height="222" alt="image" src="https://github.com/user-attachments/assets/407184df-d354-41b9-b8ff-8babaa48acb5" />
 
 ### **5. Sum and Average of Array Elements**
 
@@ -121,6 +128,8 @@ Below are the tasks performed with their **purpose** and **algorithm**:
 4. Compute `average = sum / count`
 5. Display both `sum` and `average`
 
+
+<img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/f4d9984c-92a7-48aa-9353-f267d0adc7cc" />
 
 ### **6. String Operations (Optional if included)**
 
