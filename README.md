@@ -131,5 +131,26 @@ Below are the tasks performed with their **purpose** and **algorithm**:
 <img width="456" height="288" alt="image" src="https://github.com/user-attachments/assets/2908237e-1346-4e0f-a2f5-34e54f704902" />
 
 
+### **6. Concatenating Strings**
+Concatenates two input strings.
+
+**Algorithm:**
+
+1. Declare two string variables
+2. Input both strings
+3. Concatenate using + operator
+4. Print the result
+
+### **7. Palindrome Check**
+Checks if the input string is a palindrome.
+
+**Algorithm:**
+1. Input string
+2. Reverse the string
+3. If original == reversed:
+   - Print "Palindrome"
+   - Else Print "Not a Palindrome"
+4. End
+
 ## **Conclusion**
 By completing this experiment, I learned how to declare, initialize, and manipulate arrays effectively in C++. I understood the logic behind essential operations such as searching for elements, reversing arrays, and computing statistical data like minimum, maximum, sum, and average. Additionally, I practiced working with both character arrays and the more flexible STL string class to perform various string operations. Overall, this experiment strengthened my grasp of structured programming concepts in C++ and laid a strong foundation for data structure handling and algorithm design using arrays and strings.
