@@ -128,18 +128,8 @@ Below are the tasks performed with their **purpose** and **algorithm**:
 4. Compute `average = sum / count`
 5. Display both `sum` and `average`
 
+<img width="456" height="288" alt="image" src="https://github.com/user-attachments/assets/2908237e-1346-4e0f-a2f5-34e54f704902" />
 
-<img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/f4d9984c-92a7-48aa-9353-f267d0adc7cc" />
-
-### **6. String Operations (Optional if included)**
-
-**Objective:** Perform basic string manipulations.
-
-**Algorithm:**
-
-1. Declare string variables (using `string` or `char[]`)
-2. Use standard functions (`strcpy`, `strcat`, etc.) or class methods (`compare()`, `append()`)
-3. Display results after operations.
 
 ## **Conclusion**
 By completing this experiment, I learned how to declare, initialize, and manipulate arrays effectively in C++. I understood the logic behind essential operations such as searching for elements, reversing arrays, and computing statistical data like minimum, maximum, sum, and average. Additionally, I practiced working with both character arrays and the more flexible STL string class to perform various string operations. Overall, this experiment strengthened my grasp of structured programming concepts in C++ and laid a strong foundation for data structure handling and algorithm design using arrays and strings.
